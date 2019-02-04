@@ -1,0 +1,8 @@
+{
+  "name": "elm_phoenix_channels",
+  "version": "1.0.3",
+  "description": "JavaScript package for working with zkayser/elm_phoenix_channels Elm package",
+  "main": "ElmPhoenixChannels.js",
+  "author": "Zack Kayser",
+  "license": "MIT"
+}
